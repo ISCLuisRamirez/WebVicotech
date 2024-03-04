@@ -280,7 +280,7 @@
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4><a href="">Ingeniería Empresarial</a></h4>
               <ul>
-                <li>Pólizas de servicios de TI</li>
+                <li>Pólizas de servicios de T.I.</li>
                 <li>Infraestructura y CCTV</li>
                 <li>Sistemas audiovisuales</li>
                 <li>Soporte técnico</li>
@@ -541,7 +541,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Pólizas de servicios de TI.</h2>
+          <h2>Pólizas de servicios de T.I.</h2>
           <p>Es un servicio creado para dar soporte, seguridad y tranquilidad a su empresa, para resolver cualquier tema relacionado con las tecnologías de la información.</p>
         </div>
 
