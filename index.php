@@ -618,8 +618,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Preguntas frecuentas</h2>
+          <p>Resuelve tus dudas ¿Qué puedo hacer en algunos casos cotidianos?</p>
         </div>
 
         <div class="faq-list">
@@ -706,7 +706,7 @@
                 <p>+52 33 1585 6556</p>
               </div>
               
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.548313192201!2d-103.39609932413465!3d20.64726000077114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428adcf7eeef1b5%3A0x616e18b53bec1cac!2sAv%20Topacio%202331%2C%20Bosques%20de%20La%20Victoria%2C%2044540%20Guadalajara%2C%20Jal.!5e0!3m2!1ses!2smx!4v1709444662236!5m2!1ses!2smx" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.548313192201!2d-103.39609932413465!3d20.64726000077114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428adcf7eeef1b5%3A0x616e18b53bec1cac!2sAv%20Topacio%202331%2C%20Bosques%20de%20La%20Victoria%2C%2044540%20Guadalajara%2C%20Jal.!5e0!3m2!1ses!2smx!4v1709444662236!5m2!1ses!2smx" frameborder="0" style="border:0; width: 100%; height: 18.125rem;" allowfullscreen></iframe>
             </div>
 
           </div>
@@ -804,47 +804,47 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Arsha</h3>
+            <h3>Vicotech</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Av. Topacio #2331 <br>
+              Col. Bosques de la Victoria <br>
+              Guadalajara, Jalisco, C.P. 44540<br>
+              <strong>Teléfono:</strong> +52 33 1585 6556<br>
+              <strong>Email:</strong> contacto@vicotech.com.mx<br>
             </p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Enlaces Útiles</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Inicio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">Empresa</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Servicios</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terminos y Condiciones</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Política de Privacidad</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Nuestros Servicios</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Ingeniería Empresarial</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Tecnología para el hogar</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Domótica</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Community Msanager</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Diseño Gráfico</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Social Networks</h4>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+            <h4>Nuestras Redes Sociales</h4>
+            <p>¡Encuentranos en redes sociales!</p>
             <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://www.tiktok.com/@vicotechmx" target="_blank" class="tiktok"><i class="bx bxl-tiktok"></i></a>
+              <a href="https://www.facebook.com/people/Vicotech/100071031575462/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/vicotech_mx/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.youtube.com/channel/UC_Q55jGaqhomei63aYrwSuQ" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+              <!-- <a href="#" class="store"><i class="bx bxl-store"></i></a> -->
             </div>
           </div>
 
@@ -854,14 +854,14 @@
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
+        &copy; Copyright 2020 - <span><?php echo date('Y');?></span>. Todos los derechos reservados
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Diseñado por<a href="#"><strong><span> Vicotech</span></strong></a>
       </div>
     </div>
   </footer><!-- End Footer -->
