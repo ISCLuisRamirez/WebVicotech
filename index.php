@@ -113,23 +113,21 @@
 
         <div class="row content">
           <div class="col-lg-6">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            <p style="text-align: justify">
+              Fundada en 2016 en la Cuidad de México, Vicotech se especializa en otorgar soluciones tecnológicas a cada uno de sus clientes, sin importar el rubro, tamaño o enfoque del negocio o empresa.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> Sector Privado (Empresas, colegios, casa habitación y más)</li>
+              <li><i class="ri-check-double-line"></i> Sector Público (Educativas, gubernamentales, médicas, entre otras)</li>
+              <li><i class="ri-check-double-line"></i> Organizaciones no lucrativas (Asociaciones civiles, religiosas, etc)</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
+            <p style="text-align: justify">
+              Contamos con productos y servicios personalizados de acuerdo a las necesidades de cada uno de nuestros clientes, destancando nuestro interés en innovar y mantenernos a la vanguardia en el mercado de las tecnologias de la información.<br><br>
+              Ayudamos a las empresa a escalar y competir en los mercados cambiantes mediante incorporando tecnologias ditiales en procesos, productos y activos.
             </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
+            <!-- <a href="#" class="btn-learn-more">Learn More</a> -->
           </div>
         </div>
 
@@ -831,7 +829,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Ingeniería Empresarial</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Tecnología para el hogar</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Domótica</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Community Msanager</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Community Manager</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Diseño Gráfico</a></li>
             </ul>
           </div>
