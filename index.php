@@ -604,7 +604,8 @@
             - Equipos de computo (Configuraciones, mantenimientos preventivos y correctivos, actualizaciones de software y hardware (no incluye piezas), capacitaciones)	</br>	
             - Cyberseguridad (Antivirus (no incluye licencias), cifrado de disco duro, almacenamiento en la nube (no incluye licencia), plan de seguridad y capacitaciones)		</br>
             - Infraestructura (Configuración de red, mantenimientos preventivos y correctivos, actualización de equipos (no incluye de equipos), gestión de servicios de internet)		</br>
-            - Impresoras/Multifuncionales (Instalación (no incluye equipos), configuración, mantenimientos preventivos (no incluye piezas para reparación), tintas (solo equipos ecotank y en plan empresarial))
+            - Impresoras/Multifuncionales (Instalación (no incluye equipos), configuración, mantenimientos preventivos (no incluye piezas para reparación), tintas (solo equipos ecotank y en plan empresarial))<br><br>
+            * Tarifas aplicables en contrataciones a 12 meses
           </p>
         </div>
 
