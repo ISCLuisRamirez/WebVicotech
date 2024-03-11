@@ -114,7 +114,7 @@
         <div class="row content">
           <div class="col-lg-6">
             <p style="text-align: justify">
-              Fundada en 2016 en la Cuidad de México, Vicotech se especializa en otorgar soluciones tecnológicas a cada uno de sus clientes, sin importar el rubro, tamaño o enfoque del negocio o empresa.
+            Somos una empresa mexicana que ofrece múltiples servicios tecnológicos para el beneficio de nuestros clientes, analizamos la necesidad de cada uno y ofrecemos propuestas convenientes para satisfacer la necesidad, trabajamos diferentes servicios.
             </p>
             <ul>
               <li><i class="ri-check-double-line"></i> Sector Privado (Empresas, colegios, casa habitación y más)</li>
@@ -125,7 +125,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p style="text-align: justify">
               Contamos con productos y servicios personalizados de acuerdo a las necesidades de cada uno de nuestros clientes, destancando nuestro interés en innovar y mantenernos a la vanguardia en el mercado de las tecnologias de la información.<br><br>
-              Ayudamos a las empresa a escalar y competir en los mercados cambiantes mediante incorporando tecnologias ditiales en procesos, productos y activos.
+              Nuestra meta es brindar la mejor atención personalizada y asesoría técnica a nuestros clientes, para proveerles equipos, servicios e instalaciones más adecuadas para sus proyectos y espacios.
             </p>
             <!-- <a href="#" class="btn-learn-more">Learn More</a> -->
           </div>
@@ -242,14 +242,14 @@
               </div>
 
               <div class="progress">
-                <span class="skill">Mejor cotizacion brindada <i class="val">85%</i></span>
+                <span class="skill">Mejor cotización brindada <i class="val">85%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
               <div class="progress">
-                <span class="skill">Otro <i class="val">55%</i></span>
+                <span class="skill">Clientes frecuentes <i class="val">100%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
@@ -275,8 +275,8 @@
         <div class="row">
           <div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Ingeniería Empresarial</a></h4>
+              <div class="icon"><i class='bx bx-network-chart'></i></div>
+              <h4><a href="#">Ingeniería Empresarial</a></h4>
               <ul>
                 <li>Pólizas de servicios de T.I.</li>
                 <li>Infraestructura y CCTV</li>
@@ -289,7 +289,7 @@
 
           <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
+              <div class="icon"><i class='bx bx-home-heart'></i></i></div>
               <h4><a href="">Tecnología Doméstica</a></h4>
               <ul>
                 <li>Domótica</li>
@@ -303,7 +303,7 @@
 
           <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <div class="icon"><i class='bx bx-edit'></i></div>
               <h4><a href="">Diseño Gráfico</a></h4>
               <ul>
                 <li>Imagen corporativa</li>
