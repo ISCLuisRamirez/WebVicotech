@@ -463,7 +463,7 @@
 
           <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-1.png" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Antonio Miranda</h4>
                 <span>Fundador</span>
@@ -480,7 +480,7 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-3.png" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>José Luis Ramírez</h4>
                 <span>Ing. en Sistemas computacionales</span>
@@ -497,7 +497,7 @@
 
           <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-2.png" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Alex Diaz</h4>
                 <span>Diseñador Gráfico</span>
@@ -843,7 +843,7 @@
               <a href="https://www.facebook.com/people/Vicotech/100071031575462/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="https://www.instagram.com/vicotech_mx/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
               <a href="https://www.youtube.com/channel/UC_Q55jGaqhomei63aYrwSuQ" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
-              <!-- <a href="#" class="store"><i class="bx bxl-store"></i></a> -->
+              <a href="https://vicotechmx.mercadoshops.com.mx" target="_blank" class="store"><i class='bx bxs-store-alt'></i></a>
             </div>
           </div>
 
