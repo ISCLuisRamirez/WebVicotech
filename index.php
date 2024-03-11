@@ -230,7 +230,7 @@
               <div class="progress">
                 <span class="skill">Clientes satisfechos <i class="val">99%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
@@ -244,14 +244,14 @@
               <div class="progress">
                 <span class="skill">Mejor cotización brindada <i class="val">85%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
               <div class="progress">
-                <span class="skill">Clientes frecuentes <i class="val">100%</i></span>
+                <span class="skill">Clientes frecuentes <i class="val">95%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
