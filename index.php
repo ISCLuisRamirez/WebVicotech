@@ -463,7 +463,7 @@
 
           <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-1.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Antonio Miranda</h4>
                 <span>Fundador</span>
@@ -480,7 +480,7 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-3.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>José Luis Ramírez</h4>
                 <span>Ing. en Sistemas computacionales</span>
@@ -495,13 +495,13 @@
             </div>
           </div>
 
-          <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
+          <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-2.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Alex Diaz</h4>
                 <span>Diseñador Gráfico</span>
-                <p>Community manager, cobertura de eventos (sociales y empresariles), video, animación y diseño.</p>
+                <p>Community manager, cobertura de eventos (sociales y empresariles).</p>
                 <!-- <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -512,22 +512,22 @@
             </div>
           </div>
 
-          <!-- <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
+          <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                <div class="social">
+                <h4>Itzel Briones</h4>
+                <span>Gestor de proyectos</span>
+                <p>Administración de proyectos, ordenes de servicio y cotizaciones</p>
+                <!--<div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
                   <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
+                </div>-->
               </div>
             </div>
-          </div> -->
+          </div>
 
         </div>
 
