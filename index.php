@@ -690,7 +690,7 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Domicilio:</h4>
-                <p>Av. Topacio #2331 Col. Bosques de la Victoria, Guadalajara, Jalisco, C.P. 44540</p>
+                <p>Av. Topacio #2331 Int. 29, Col. Bosques de la Victoria, Guadalajara, Jalisco, C.P. 44540</p>
               </div>
 
               <div class="email">
@@ -805,7 +805,7 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Vicotech</h3>
             <p>
-              Av. Topacio #2331 <br>
+              Av. Topacio #2331 Int. 29<br>
               Col. Bosques de la Victoria <br>
               Guadalajara, Jalisco, C.P. 44540<br>
               <strong>Teléfono:</strong> +52 33 1585 6556<br>
