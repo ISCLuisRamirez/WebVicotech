@@ -829,7 +829,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#hero">Inicio</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#about">Empresa</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#services">Servicios</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terminos y Condiciones</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Términos y Condiciones</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Política de Privacidad</a></li>
             </ul>
           </div>
