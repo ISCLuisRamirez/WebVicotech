@@ -349,7 +349,7 @@
         <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
           <li data-filter="*" class="filter-active">Todo</li>
           <li data-filter=".filter-app">Empresarial</li>
-          <li data-filter=".filter-card">Domestico</li>
+          <li data-filter=".filter-card">Doméstico</li>
           <li data-filter=".filter-web">DIseño</li>
         </ul>
 
@@ -385,6 +385,16 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Control de Acceso</h4>
+              <p>Cerraduras, Lectores biométricos, pistones y más.</p>
+              <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Control de Acceso"><i class="bx bx-search"></i></a>
+              <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+            </div>
+          </div>
+
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
@@ -401,16 +411,6 @@
               <h4>Cobertura de eventos</h4>
               <p>Fotografia, video y trasmisiones.</p>
               <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-search"></i></a>
-              <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Control de Acceso</h4>
-              <p>Cerraduras, Lectores biométricos, pistones y más.</p>
-              <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Control de Acceso"><i class="bx bx-search"></i></a>
               <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
@@ -441,6 +441,16 @@
               <h4>Personajes</h4>
               <p>Diseño, animación y/o exposición.</p>
               <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Diseño empresarial"><i class="bx bx-search"></i></a>
+              <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-10.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Equipo de cómputo</h4>
+              <p>Reparación, venta e instalación.</p>
+              <a href="assets/img/portfolio/portfolio-10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Equipo de cómputo"><i class="bx bx-search"></i></a>
               <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
