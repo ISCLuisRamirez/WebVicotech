@@ -487,7 +487,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
@@ -757,10 +757,6 @@
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
